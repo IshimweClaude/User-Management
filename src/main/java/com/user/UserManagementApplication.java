@@ -7,7 +7,7 @@ import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
 
 @SpringBootApplication
-@OpenAPIDefinition(info = @Info(title = "User Management API", version = "v1", description = "User Management Park& Pick"))
+@OpenAPIDefinition(info = @Info(title = "User Management API", version = "v1", description = "User Management by Vedaste"))
 public class UserManagementApplication {
 
 	public static void main(String[] args) {
